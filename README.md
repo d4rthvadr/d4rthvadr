@@ -9,6 +9,7 @@
 
 
 - 👋 Hi, I’m @Eddyflawless, I'm a certified AWS Solutions Architect and backend engineer 👨‍💻 who is passionate about distributed systems, infrastructure, tooling and automation.
+- Beyond engineering and build systems, I find balance in the tactile and the thoughtful. Whether it's exploring the nuances of complex architectures or spending time in the real world, my approach to life is driven by curiosity and a desire to understand how things work at their core.
 - 👀 I’m interested in building cloud solutions and tools
 - 🌱 I’m currently learning Golang, devOps and distributed systems.
 - 💞️ I’m looking to collaborate on Nodejs and Go projects.
