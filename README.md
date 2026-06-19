@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-# Edwin Djonorh (Senior Fullstack Product | AWS Solutions Architect)
+# Edwin Djonorh (Senior Product Engineer | AWS Solutions Architect)
 [![Twitter Badge](https://img.shields.io/badge/-@yesa_boss-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yesa_boss)](https://twitter.com/yesa_boss) [![Linkedin Badge](https://img.shields.io/badge/-edwindjonorh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwin-djonorh-345b8794)](https://www.linkedin.com/in/edwin-djonorh-345b8794) 
 [![Gmail Badge](https://img.shields.io/badge/-edjonorh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edjonorh@gmail.com)](mailto:edjonorh@gmail.com)
 
